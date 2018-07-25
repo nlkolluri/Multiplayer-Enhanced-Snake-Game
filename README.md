@@ -1,6 +1,8 @@
 # Multiplayer Enhanced Snake Game 
 Programming (Java) showcase:
--Designed to show ability in Java graphics \n
+
+-Designed to show ability in Java graphics
+
 -Demonstrates ability in Object Oriented Programming (OOP), which was necessary to create the snakes
 -Shows proficiency in different data structures, such as HashMaps, ArrayLists, etc
 -Ability in control structures, such as for loops, enhanced for loops, and conditional (if) statements
