@@ -1,4 +1,6 @@
 # Multiplayer Enhanced Snake Game 
+Single-player and two-player enhanced snake game, including power-ups and enemies. Collaborators: Nikhil Kolluri, Vivian Tung, Jenny Cheng
+
 Programming (Java) showcase:
 
 -Designed to show ability in Java graphics
